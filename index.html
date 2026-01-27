@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Personal Expense Creator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app">
+    <h1>💸 Personal Expense Creator</h1>
+    <p class="subtitle">Track. Control. Improve your spending.</p>
+
+    <div class="glass card">
+      <input type="text" id="title" placeholder="Expense Title">
+      <input type="number" id="amount" placeholder="Amount (₹)">
+      <select id="category">
+        <option value="">Select Category</option>
+        <option>Food</option>
+        <option>Travel</option>
+        <option>Shopping</option>
+        <option>Health</option>
+        <option>Others</option>
+      </select>
+      <button onclick="addExpense()">Add Expense</button>
+    </div>
+
+    <div class="glass summary">
+      <h2>Total Spent</h2>
+      <span id="total">₹0</span>
+    </div>
+
+    <div id="expenseList" class="list"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
